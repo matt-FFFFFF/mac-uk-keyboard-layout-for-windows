@@ -7,15 +7,15 @@ A Windows keyboard layout that replicates the Mac UK keyboard, including all Opt
 - **All Mac Option key characters** – Type ©, ®, ™, €, £, ¥, and many more
 - **All Mac Option+Shift characters** – Access †, ‡, °, ±, ≠, ≤, ≥, and others
 - **Five dead keys for accented characters:**
-  - `AltGr+E` → Acute (á, é, í, ó, ú, ý)
-  - `AltGr+U` → Umlaut (ä, ë, ï, ö, ü, ÿ)
-  - `AltGr+I` → Circumflex (â, ê, î, ô, û)
-  - `AltGr+N` → Tilde (ã, ñ, õ)
-  - `AltGr+`` ` → Grave (à, è, ì, ò, ù)
-- **Direct access to ß** via `AltGr+S`
-- **Direct access to ç** via `AltGr+C`
-- **Curly quotes** via `AltGr+[` and `AltGr+]`
-- **Non-breaking space** via `AltGr+Space`
+  - <kbd>AltGr</kbd> + <kbd>e</kbd> → Acute (á, é, í, ó, ú, ý)
+  - <kbd>AltGr</kbd> + <kbd>u</kbd> → Umlaut (ä, ë, ï, ö, ü, ÿ)
+  - <kbd>AltGr</kbd> + <kbd>i</kbd> → Circumflex (â, ê, î, ô, û)
+  - <kbd>AltGr</kbd> + <kbd>n</kbd> → Tilde (ã, ñ, õ)
+  - <kbd>AltGr</kbd> + <kbd>`</kbd> → Grave (à, è, ì, ò, ù)
+- **Direct access to ß** via <kbd>AltGr</kbd> + <kbd>S</kbd>
+- **Direct access to ç** via <kbd>AltGr</kbd> + <kbd>C</kbd>
+- **Curly quotes** via <kbd>AltGr</kbd> + <kbd>[</kbd> and <kbd>AltGr</kbd> + <kbd>]</kbd>
+- **Non-breaking space** via <kbd>AltGr</kbd> + <kbd>Space</kbd>
 
 ## Usage
 
@@ -83,15 +83,15 @@ On Windows, the **Right Alt** key (also called **AltGr**) functions as the Mac's
 
 Dead keys let you type accented characters in two steps: press the dead key, then press the base letter.
 
-| Dead Key   | Trigger     | Available Characters    |
-| ---------- | ----------- | ----------------------- |
-| Acute      | `AltGr+E`   | á é í ó ú ý Á É Í Ó Ú Ý |
-| Umlaut     | `AltGr+U`   | ä ë ï ö ü ÿ Ä Ë Ï Ö Ü Ÿ |
-| Circumflex | `AltGr+I`   | â ê î ô û Â Ê Î Ô Û     |
-| Grave      | `AltGr+`` ` | à è ì ò ù À È Ì Ò Ù     |
-| Tilde      | `AltGr+N`   | ã ñ õ Ã Ñ Õ             |
+| Dead Key   | Trigger                         | Available Characters    |
+| ---------- | ------------------------------- | ----------------------- |
+| Acute      | <kbd>AltGr</kbd> + <kbd>e</kbd> | á é í ó ú ý Á É Í Ó Ú Ý |
+| Umlaut     | <kbd>AltGr</kbd> + <kbd>u</kbd> | ä ë ï ö ü ÿ Ä Ë Ï Ö Ü Ÿ |
+| Circumflex | <kbd>AltGr</kbd> + <kbd>i</kbd> | â ê î ô û Â Ê Î Ô Û     |
+| Grave      | <kbd>AltGr</kbd> + <kbd>`</kbd> | à è ì ò ù À È Ì Ò Ù     |
+| Tilde      | <kbd>AltGr</kbd> + <kbd>n</kbd> | ã ñ õ Ã Ñ Õ             |
 
-**Example:** To type "ü", press `AltGr+U`, release, then press `u`.
+**Example:** To type "ü", press <kbd>AltGr</kbd> + <kbd>u</kbd>, release, then press <kbd>u</kbd>.
 
 ## Installation
 
