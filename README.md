@@ -11,7 +11,7 @@ A Windows keyboard layout that replicates the Mac UK keyboard, including all Opt
   - `AltGr+U` → Umlaut (ä, ë, ï, ö, ü, ÿ)
   - `AltGr+I` → Circumflex (â, ê, î, ô, û)
   - `AltGr+N` → Tilde (ã, ñ, õ)
-  - `AltGr+`` → Grave (à, è, ì, ò, ù)
+  - `AltGr+`` ` → Grave (à, è, ì, ò, ù)
 - **Direct access to ß** via `AltGr+S`
 - **Direct access to ç** via `AltGr+C`
 - **Curly quotes** via `AltGr+[` and `AltGr+]`
