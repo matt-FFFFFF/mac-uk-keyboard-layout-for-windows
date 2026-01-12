@@ -1,5 +1,9 @@
 # Mac UK Keyboard Layout for Windows
 
+## Installation
+
+Download the latest ZIP from the [Releases](https://github.com/matt-FFFFFF/Mac-UK-Keyboard-Layout-for-Windows/releases/latest) page. Extract the ZIP file and run the `setup.exe` installer.
+
 ## Building from Source
 
 1. Install the [Microsoft Keyboard Layout Creator (MKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
